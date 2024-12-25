@@ -48,8 +48,8 @@ nav li:first-child {
     margin-right: auto;
 }
 
-nav li:last-child {
-    display: ;
+nav ul:last-child {
+    display: hidden;
 }
 
 .sidebar {
